@@ -12,7 +12,7 @@ I am assistant professor at the IT University of Copenhagen (<a href="https://ww
 
 My research interests focus on human factors in security and privacy, including privacy-related decision support for end users and risk communication, as well as issues of security and privacy in electronic voting. I also work as a part-time researcher at SECUSO, collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (<a href="https://www.ghost-iot.eu">GHOST</a>).
 
-Teaching (Lectures)
+Teaching (lectures)
 ------
 
 - Fall 2019: Security and Privacy (ITU)
@@ -22,7 +22,7 @@ Teaching (Lectures)
 Potential student projects
 ------
 
-Contact me if you are interested to doing a project, including writing a Bachelor/Master thesis, on following and related topics:
+Contact me if you are interested in doing a project, including writing a Bachelor/Master thesis, on following and related topics:
 
 - E-voting and other forms of e-participation, incl. cryptography and human factors
 - Privacy, incl. decision support, privacy notices, usable privacy settings, transparency
