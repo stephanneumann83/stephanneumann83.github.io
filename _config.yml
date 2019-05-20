@@ -83,12 +83,12 @@ author:
   name             : "Dr. Oksana Kulyk"
   avatar           : "profile.png"
   bio              : "Assistant professor at IT University of Copenhagen. Research interests include human factors in security, privacy, cryptography and electronic voting"
-  location         : "Location"
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.de/citations?user=08IyY1AAAAAJ"
   email            : "okku@itu.dk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Oksana_Kulyk"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
