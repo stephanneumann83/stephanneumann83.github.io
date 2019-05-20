@@ -13,7 +13,7 @@ I am assistant professor at the IT University of Copenhagen (ITU) and a member o
 My research interests focus on human factors in security and privacy, including privacy-related decision support for end users and risk communication, as well as issues of security and privacy in electronic voting. I also work as a part-time researcher at SECUSO, collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (GHOST).
 
 Teaching (Lectures)
-======
+------
 
 - Fall 2019: Security and Privacy (ITU)
 - Winter 2018/2019: E-Voting (KIT)
@@ -21,16 +21,14 @@ Teaching (Lectures)
 
 
 Scientific services
-======
+------
 
 Organisation Activities
-------
 
 - 21st E-Voting PhD Colloquium, Karlsruhe Institute of Technology
 - 20th E-Voting PhD Colloquium, co-located with the 2nd International Joint Conference on Electronic Voting (E-VOTE-ID 2017)
 
 Program Committee Memberships
-------
 
 - 14th International Conference on Availability, Reliability and Security (ARES 2019)
 - 4th International Joint Conference on Electronic Voting (E-VOTE-ID 2019)
@@ -41,7 +39,6 @@ Program Committee Memberships
 - 44. GI Jahrestagung / Workshop: Elektronische Wahlen. September 2014. Stuttgart, Germany. 
 
 Reviewing Activities
-------
 
 - 17th International Conference on Mobile and Ubiquitous Multimedia (MUM 2018)
 - Security and Communication Networks Journal
@@ -59,7 +56,7 @@ Reviewing Activities
 - 3rd International Conference on Electronic Government and the Information Systems Perspective (EGOVIS 2014)
 
 Talks
-======
+------
 
 - The challenge of making security and privacy usable - IT Security and Privacy Workshop on Technical Challenges, Ethical Conflicts, and Practical Solutions, Bamberg (03/2019)
 - Does This App Respect My Privacy? Design and Evaluation of Information Materials Supporting Privacy-Related Decisions of Smartphone Users - NDSS Symposium 2019 (USEC), San Diego (02/2019)
