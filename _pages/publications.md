@@ -71,7 +71,7 @@ In: 11th International Conference on Availability, Reliability and Security (ARE
 
 **Coercion-resistant Proxy Voting**<br>
 Oksana Kulyk, Stephan Neumann, Karola Marky, Jurlind Budurushi and Melanie Volkamer<br>
-In: 31st International Conference on ICT Systems Security and Privacy Protec?on (IFIP SEC), p. 3-16, June 2016. Springer
+In: 31st International Conference on ICT Systems Security and Privacy Protection (IFIP SEC), p. 3-16, June 2016. Springer
 
 **Encouraging Privacy-Aware Smartphone App Installa3on: What Would the Technically-Adept Do**<br>
 Oksana Kulyk, Paul Gerber, Michael El Hanafi, Benjamin Reinheimer, Karen Renaud, Melanie Volkamer<br>
@@ -79,24 +79,24 @@ In: Usable Security Workshop (USEC), February 2016. Internet Society
 
 **Efficiency Comparison of Various Approaches in E-Voting Protocols**<br>
 Oksana Kulyk, Melanie Volkamer<br>
-In: Financial Cryptography, 1st Workshop on Advances in Secure Electronic Vo?ng Schemes (VOTING), pp. 209-223, February 2016. Springer
+In: Financial Cryptography, 1st Workshop on Advances in Secure Electronic Voting Schemes (VOTING), pp. 209-223, February 2016. Springer
 
 **A Socio-Technical Investigation into Smartphone Security**<br>
 Melanie Volkamer, Karen Renaud, Oksana Kulyk and Sinem Emeröz<br>
-In: 11th Interna?onal Workshop on Security and Trust Management (STM), p. 265-273, September 2015. Springer
+In: 11th International Workshop on Security and Trust Management (STM), p. 265-273, September 2015. Springer
 
 **Extending Helios Towards Private Eligibility Verifiability**<br>
 Oksana Kulyk, Vanessa Teague, Melanie Volkamer<br>
-In: 5th International Conference on E-Vo?ng and Identity (VoteID), p. 57-73, September 2015. Springer<br>
+In: 5th International Conference on E-Voting and Identity (VoteID), p. 57-73, September 2015. Springer<br>
 
 **Efficiency Evaluation of Cryptographic Protocols for Boardroom Voting**<br>
 Oksana Kulyk, Stephan Neumann, Jurlind Budurushi, Melanie Volkamer, Rolf Haenni, Reto Koenig, Philemon von Bergen<br>
 In: 10th International Conference on Availability, Reliability and Security - ARES 2015, p. 224-229, August 2015. IEEE
 
 **Electronic Voting with Fully Distributed Trust and Maximized Flexibility Regarding Ballot Design**<br>
-Oksana Kulyk, Christian Feier, Thorben Köster<br>
-In: 6th Interna?onal Conference on Electronic Vo?ng - EVOTE 2014, p. 1-10, October 2014. IEEE
+Oksana Kulyk, Stephan Neumann, Christian Feier, Thorben Köster<br>
+In: 6th International Conference on Electronic Voting - EVOTE 2014, p. 1-10, October 2014. IEEE
 
 **A Usable Android Application Implementing Distributed Cryptography For Election Authorities**<br>
 Stephan Neumann, Oksana Kulyk, Melanie Volkamer<br>
-In: 9th Interna?onal Workshop on Fron?ers in Availability, Reliability and Security - FARES 2014, p. 198-207, September 2014. IEEE
+In: 9th International Workshop on Frontiers in Availability, Reliability and Security - FARES 2014, p. 198-207, September 2014. IEEE
