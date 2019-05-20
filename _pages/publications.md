@@ -23,11 +23,11 @@ In: Third International Joint Conference on Electronic Voting (E-Vote-ID 2018), 
 Oksana Kulyk, Annika Hilt, Nina Gerber, Melanie Volkamer<br>
 In: 3rd European Workshop on Usable Security (EuroUSEC), London, England, April 23, 2018, Internet Society
 
-**A Concept and Evalua3on of Usable and Fine-Grained Privacy-Friendly Cookie Settings Interface** <br>
+**A Concept and Evaluation of Usable and Fine-Grained Privacy-Friendly Cookie Settings Interface** <br>
 Oksana Kulyk, Peter Mayer, Oliver Käfer and Melanie Volkamer<br>
 In: 17th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), August 2018. IEEE
 
-**„This Website Uses Cookies": Users' Percep3ons and Reactions to the Cookie Disclaimer**<br>
+**„This Website Uses Cookies": Users' Perceptions and Reactions to the Cookie Disclaimer**<br>
 Oksana Kulyk, Nina Gerber, Annika Hilt, Melanie Volkamer<br>
 In: The 3rd European Workshop on Usable Security (EuroUSEC), April 2018.
 
@@ -35,7 +35,7 @@ In: The 3rd European Workshop on Usable Security (EuroUSEC), April 2018.
 Karola Marky, Oksana Kulyk, Karen Renaud, Melanie Volkamer<br>
 In: Conference on Human Factors in Compu?ng Systems (CHI), April 2018. ACM
 
-**Comparative Usability Evalua3on of Cast-as-Intended Verifica3on Approaches in Internet Voting**<br>
+**Comparative Usability Evaluation of Cast-as-Intended Verification Approaches in Internet Voting**<br>
 Karola Marky, Oksana Kulyk, Melanie Volkamer<br>
 In: SICHERHEIT 2018, April 2018
 
@@ -43,7 +43,7 @@ In: SICHERHEIT 2018, April 2018
 David Bernhard, Oksana Kulyk, Melanie Volkamer<br>
 In: 12th Interna?onal Conference on Availability, Reliability and Security (ARES), pp. 1-10, August 2017. IEEE<br>
 
-**Advancing Trust Visualisa3ons for Wider Applicability and User Acceptance**
+**Advancing Trust Visualisations for Wider Applicability and User Acceptance**
 Oksana Kulyk, Benjamin Reinheimer, Paul Gerber, Florian Volk, Melanie Volkamer, Max Mühlhäuser <br>
 In: 16th IEEE Interna?onal Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), pp. 562-569, August 2017. IEEE
 
@@ -60,7 +60,7 @@ In: International Conference on Human-Computer Interac?on (HCII), Vol. 10292, p.
 Oksana Kulyk, Stephan Neumann, Jurlind Budurushi, Melanie Volkamer<br>
 In: IEEE Security & Privacy, Vol. 15, p. 24-29, June 2017. IEEE
 
-**Enabling Vote Delega3on in Boardroom Voting**<br>
+**Enabling Vote Delegation in Boardroom Voting**<br>
 Oksana Kulyk, Stephan Neumann, Karola Marky, Melanie Volkamer<br>
 In: In: Workshop on Advances in Secure Electronic Voting Associated with Financial Crypto 2017, p. 419-433, April 2017. Springer
 
@@ -73,7 +73,7 @@ In: 11th International Conference on Availability, Reliability and Security (ARE
 Oksana Kulyk, Stephan Neumann, Karola Marky, Jurlind Budurushi and Melanie Volkamer<br>
 In: 31st International Conference on ICT Systems Security and Privacy Protection (IFIP SEC), p. 3-16, June 2016. Springer
 
-**Encouraging Privacy-Aware Smartphone App Installa3on: What Would the Technically-Adept Do**<br>
+**Encouraging Privacy-Aware Smartphone App Installation: What Would the Technically-Adept Do**<br>
 Oksana Kulyk, Paul Gerber, Michael El Hanafi, Benjamin Reinheimer, Karen Renaud, Melanie Volkamer<br>
 In: Usable Security Workshop (USEC), February 2016. Internet Society
 
