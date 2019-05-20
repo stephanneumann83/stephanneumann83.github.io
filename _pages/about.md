@@ -36,7 +36,7 @@ Program Committee Memberships
 - 3rd International Joint Conference on Electronic Voting (E-VOTE-ID 2018)
 - 1st Interdisciplinary Workshop on Privacy and Trust (iPAT 2018), co-located with ARES 2018.
 - 13th International Conference on Availability, Reliability and Security (ARES 2018)
-- 44. GI Jahrestagung / Workshop: Elektronische Wahlen. September 2014. Stuttgart, Germany. 
+- 44th GI Jahrestagung / Workshop: Elektronische Wahlen. September 2014. Stuttgart, Germany. 
 
 Reviewing Activities
 
