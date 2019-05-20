@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.de/citations?user=08IyY1AAAAAJ">my Google Scholar profile</a>.
 
 **Does This App Respect My Privacy? Design and Evaluation of Information Materials Supporting Privacy-Related Decisions of Smartphone Users**<br>
 Oksana Kulyk, Paul Gerber, Karola Marky, Christopher Beckmann, Melanie Volkamer<br>
