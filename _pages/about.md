@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am assistant professor at the IT University of Copenhagen (ITU) and a member of the Center for Information Security and Trust (CIST). I am also working as a part-time researcher . I have previously worked as a postdoc in the Security, Usability and Society (SECUSO) research group at Karlsruhe Institute of Technology (KIT) and Technische Universität Darmstadt (TUD), and received my doctorate from TUD in 2017.
+I am assistant professor at the IT University of Copenhagen (<a href="https://www.itu.dk">ITU</a>) and a member of the Center for Information Security and Trust (<a href="https://cist.dk">CIST</a>). I have previously worked as a postdoc in the Security, Usability and Society (<a href="https://secuso.aifb.kit.edu/index.php">SECUSO</a>) research group at Karlsruhe Institute of Technology (<a href="http://www.kit.edu">KIT</a>) and Technische Universität Darmstadt (<a href="https://www.tu-darmstadt.de">TUD</a>), and received my doctorate from TUD in 2017.
 
-My research interests focus on human factors in security and privacy, including privacy-related decision support for end users and risk communication, as well as issues of security and privacy in electronic voting. I also work as a part-time researcher at SECUSO, collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (GHOST).
+My research interests focus on human factors in security and privacy, including privacy-related decision support for end users and risk communication, as well as issues of security and privacy in electronic voting. I also work as a part-time researcher at SECUSO, collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (<a href="https://www.ghost-iot.eu">GHOST</a>).
 
 Teaching (Lectures)
 ------
@@ -19,6 +19,14 @@ Teaching (Lectures)
 - Winter 2018/2019: E-Voting (KIT)
 - Summer 2018: E-Voting (KIT)
 
+Potential student projects
+------
+
+Contact me if you are interested to doing a project, including writing a Bachelor/Master thesis, on following and related topics:
+
+- E-voting and other forms of e-participation, incl. cryptography and human factors
+- Privacy, incl. decision support, privacy notices, usable privacy settings, transparency
+- Trust and acceptance of security- and privacy-critical technologies
 
 Scientific services
 ------
