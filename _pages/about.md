@@ -24,8 +24,8 @@ Potential student projects
 
 Contact me if you are interested in doing a project, including writing a Bachelor/Master thesis, on following and related topics:
 
-- E-voting and other forms of e-participation, incl. cryptography and human factors
-- Privacy, incl. decision support, privacy notices, usable privacy settings, transparency
+- E-voting and other forms of e-participation, incl. cryptography and human factors as well as issues of coercion resistance and verifiability
+- Privacy, incl. human factors and technical solutions for privacy-enchancing technologies, privacy decision support, privacy notices, usable privacy settings, transparency
 - Trust and acceptance of security- and privacy-critical technologies
 
 Scientific services
