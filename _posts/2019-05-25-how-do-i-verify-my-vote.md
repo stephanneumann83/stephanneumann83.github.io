@@ -1,6 +1,6 @@
 ---
 title: 'How do I Verify my Vote'
-date: 2199-01-01
+date: 2019-05-25
 permalink: /posts/2019/05/how-do-i-verify-my-vote/
 tags:
   - Internet voting
@@ -19,11 +19,12 @@ Imagine an attacker gains control over the voting client on your personal device
 
 One way to combat such issues is to implement cast-as-intended verifiability. The idea is that the voter uses an external source to verify that their vote has not been modified by a malicious voting client.  An example of such verification is the use of secret codes printed on paper sheets and distributed to voters before the election — the so-called code-based approach [[2](#ref2)]. These codes are compared to the output provided by the voting website to ensure that the correct vote has been submitted to the voting system.
 
-![codesheet](assets/images/codesheet.png) | ![code-output](assets/images/code-output.png)
+
+![codesheet](/assets/images/codesheet.png) | ![code-output](/assets/images/code-output.png)
 :-------------------------:|:-------------------------:
 Paper code sheet             |  Voting website
 
-<p align="center">
+<p align="center"> 
 A code-based verification with the voter casting a vote for Alice.</p>
 
 Simply providing voters with the technical means to verify their votes is  insufficient. After all, Internet voting systems are not only used by computer scientists and IT experts. If verifying is too complicated people will not be able to verify their votes. So, an attacker who wants to manipulate an election’s outcome would succeed by manipulating the votes of the general population. Designing usable verification  is critical to the security of the elections.
@@ -36,19 +37,18 @@ We prepared two mock-up voting systems, one for each verification approach. The 
 
 What they were not told, at the beginning of the study, however, is that we wanted to see how well they could verify their votes using the different verification systems. To test for this, we manipulated their cast votes. The manipulations changed the cast votes. This would be detected by their group’s verification. We then noted the number of participants, in each group, that detected the manipulations.
 
-![b-output](assets/images/b-output.png) | ![n-codesheet-cropped](assets/images/n-codesheet-cropped.png)<br>![n-output](/Users/okku/Documents/GitHub/okskulyk.github.io/assets/images/n-output.png)
+<img src="/assets/images/b-output.png" width ="700px"> | ![n-codesheet-cropped](/assets/images/n-codesheet-cropped.png)<br>![n-output](/assets/images/n-output.png)
 :-------------------------:|:-------------------------:
 Verification app             |  Code sheet and voting website output
 
 <p align="center">
 Vote manipulation with challenge-or-cast (left) and code-based verification approaches. In both cases the participants were instructed to vote for SPD.</p>
 
-
 ### Outcome of the study
 
 The results of the study revealed that the code-based approach was superior. All of the participants using the codes detected the manipulation, although some also complained about “cryptic-looking” codes. The challenge-or-cast approach performed poorly, with almost one-fourth of participants failing to verify their vote. Some expressed confusion regarding the complicated verification process, and the need to repeat vote casting from the beginning after verifying.
 
-![codevschallenge_results](assets/images/codevschallenge_results.png)
+<img src="/assets/images/codevschallenge_results.png" width ="400px">
 
 The study suggests that it is a good idea to use code-based verification during real-world elections. Indeed, the complexity of the challenge-or-cast verification has often been criticized in previous studies [[5](#ref5)]. Yet, code-based systems can also be improved. Cast-as-intended verification is only one of the many factors assuring voting system security, albeit a very important one. If there are vulnerabilities on the server side of the system, the attacker has many more opportunities to manipulate the election results, without even having to compromise the voting devices. In fact, several such vulnerabilities have recently been revealed during an audit of the Swiss voting system using code-based verification [[6](#ref6),[7](#ref7)]. As a result of the audit, it was decided not to use the system in upcoming elections [[8](#ref8)]. A variety of measures should therefore be implemented to assure the security of the elections, from both technical and human perspectives 
 
