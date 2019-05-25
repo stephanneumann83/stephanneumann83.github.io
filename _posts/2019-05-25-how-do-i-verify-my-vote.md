@@ -48,7 +48,7 @@ Vote manipulation with challenge-or-cast (left) and code-based verification appr
 
 The results of the study revealed that the code-based approach was superior. All of the participants using the codes detected the manipulation, although some also complained about “cryptic-looking” codes. The challenge-or-cast approach performed poorly, with almost one-fourth of participants failing to verify their vote. Some expressed confusion regarding the complicated verification process, and the need to repeat vote casting from the beginning after verifying.
 
-<img src="/assets/images/codevschallenge_results.png" width ="400px">
+<p align="center"><img src="/assets/images/codevschallenge_results.png" width ="400px"></p>
 
 The study suggests that it is a good idea to use code-based verification during real-world elections. Indeed, the complexity of the challenge-or-cast verification has often been criticized in previous studies [[5](#ref5)]. Yet, code-based systems can also be improved. Cast-as-intended verification is only one of the many factors assuring voting system security, albeit a very important one. If there are vulnerabilities on the server side of the system, the attacker has many more opportunities to manipulate the election results, without even having to compromise the voting devices. In fact, several such vulnerabilities have recently been revealed during an audit of the Swiss voting system using code-based verification [[6](#ref6),[7](#ref7)]. As a result of the audit, it was decided not to use the system in upcoming elections [[8](#ref8)]. A variety of measures should therefore be implemented to assure the security of the elections, from both technical and human perspectives 
 
