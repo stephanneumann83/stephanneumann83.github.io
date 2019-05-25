@@ -56,13 +56,13 @@ The study suggests that it is a good idea to use code-based verification during 
 
 <a name="ref1"></a>[1]  [Teague, V., Halderman, A. Security flaw in New South Wales puts thousands of online votes at risk](https://freedom-to-tinker.com/2015/03/22/ivote-vulnerability/) 
 
-<a name="ref2"></a> [2] Galindo, D., Guasch, S., & Puiggali, J. (2015, September). 2015 Neuchâtel’s Cast-as-Intended Verification Mechanism. In: International Conference on E-Voting and Identity (pp. 3-18). Springer, Cham.
+<a name="ref2"></a> [2] [Galindo, D., Guasch, S., & Puiggali, J. (2015, September). 2015 Neuchâtel’s Cast-as-Intended Verification Mechanism. In: International Conference on E-Voting and Identity (pp. 3-18). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-319-22270-7_1)
 
-<a name="ref3"></a> [3] Adida, B. (2008, July). Helios: Web-based Open-Audit Voting. In: USENIX security symposium (Vol. 17, pp. 335-348).
+<a name="ref3"></a> [3] [Adida, B. (2008, July). Helios: Web-based Open-Audit Voting. In: USENIX security symposium (Vol. 17, pp. 335-348).](https://www.usenix.org/legacy/event/sec08/tech/full_papers/adida/adida.pdf)
 
-<a name="ref4"></a> [4] Neumann, S., Olembo, M. M., Renaud, K., & Volkamer, M. (2014, August). Helios verification: To alleviate, or to nominate: Is that the question, or shall we have both?. In: International Conference on Electronic Government and the Information Systems Perspective (pp. 246-260). Springer, Cham.
+<a name="ref4"></a> [4] [Neumann, S., Olembo, M. M., Renaud, K., & Volkamer, M. (2014, August). Helios verification: To alleviate, or to nominate: Is that the question, or shall we have both?. In: International Conference on Electronic Government and the Information Systems Perspective (pp. 246-260). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-319-10178-1_20)
 
-<a name="ref5"></a> [5] Marky, K., Kulyk, O., Renaud, K., & Volkamer, M. (2018, April). What Did I Really Vote For?. In: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 176). ACM.
+<a name="ref5"></a> [5] [Marky, K., Kulyk, O., Renaud, K., & Volkamer, M. (2018, April). What Did I Really Vote For?. In: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 176). ACM](https://dl.acm.org/citation.cfm?id=3173750).
 
 <a name="ref6"></a> [6]  [Lewis, S. J., Pereira, O., Teague, V. Trapdoor commitments in the SwissPost e-voting shuffle proof](https://people.eng.unimelb.edu.au/vjteague/SwissVote.html) 
 
