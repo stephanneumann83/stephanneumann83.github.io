@@ -67,6 +67,7 @@ Reviewing Activities
 Talks
 ------
 
+- Challenges in Usable and Effective Privacy Decision Support - Doctoral College RTG Lecture Series “Female Scientists for Female Students”, Darmstadt (07/2019)
 - Human factors in coercion-resistant Internet voting - Øresund Security Day 2019, Lyngby (05/2019)
 - The challenge of making security and privacy usable - IT Security and Privacy Workshop on Technical Challenges, Ethical Conflicts, and Practical Solutions, Bamberg (03/2019)
 - Does This App Respect My Privacy? Design and Evaluation of Information Materials Supporting Privacy-Related Decisions of Smartphone Users - NDSS Symposium 2019 (USEC), San Diego (02/2019)
