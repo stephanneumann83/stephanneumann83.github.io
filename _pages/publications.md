@@ -7,6 +7,10 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.de/citations?user=08IyY1AAAAAJ">my Google Scholar profile</a>.
 
+**Comparing “Challenge-Based” and “Code-Based” Internet Voting Verification Implementations**<br>
+Oksana Kulyk, Jan Henzel, Karen Renaud, Melanie Volkamer<br>
+In: 17th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2019), 519-538
+
 **Does This App Respect My Privacy? Design and Evaluation of Information Materials Supporting Privacy-Related Decisions of Smartphone Users**<br>
 Oksana Kulyk, Paul Gerber, Karola Marky, Christopher Beckmann, Melanie Volkamer<br>
 In: NDSS Symposium 2019 (USEC), San Diego, CA, February 18-21, 2019

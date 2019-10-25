@@ -16,6 +16,7 @@ My research interests focus on human factors in security and privacy, including 
 Teaching (lectures)
 ------
 
+- Fall 2019: Advanced security, "Usable security" module (ITU)
 - Fall 2019: Security and Privacy (ITU)
 - Winter 2018/2019: E-Voting (KIT)
 - Summer 2018: E-Voting (KIT)
@@ -39,6 +40,8 @@ Organisation Activities
 
 Program Committee Memberships
 
+- 5th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2020)
+- Central European Cybersecurity Conference (CECC 2019)
 - 14th International Conference on Availability, Reliability and Security (ARES 2019)
 - 4th International Joint Conference on Electronic Voting (E-VOTE-ID 2019)
 - 4th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2019)
@@ -67,6 +70,8 @@ Reviewing Activities
 Talks
 ------
 
+- Comparing “Challenge-Based” and “Code-Based” Internet Voting Verification Implementations - 17th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2019), Paphos (09/2019)
+- Challenges in Usable and Effective Privacy Decision Support - Lecture series "Female Scientists for Female Students", Darmstadt (07/2019)
 - Human factors in coercion-resistant Internet voting - Øresund Security Day 2019, Lyngby (05/2019)
 - The challenge of making security and privacy usable - IT Security and Privacy Workshop on Technical Challenges, Ethical Conflicts, and Practical Solutions, Bamberg (03/2019)
 - Does This App Respect My Privacy? Design and Evaluation of Information Materials Supporting Privacy-Related Decisions of Smartphone Users - NDSS Symposium 2019 (USEC), San Diego (02/2019)
