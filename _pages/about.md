@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am assistant professor at the IT University of Copenhagen (<a href="https://www.itu.dk">ITU</a>) and a member of the Center for Information Security and Trust (<a href="https://cist.dk">CIST</a>). I also work as a part-time researcher in the Security, Usability and Society (<a href="https://secuso.aifb.kit.edu/index.php">SECUSO</a>) research group at Karlsruhe Institute of Technology (<a href="http://www.kit.edu">KIT</a>) collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (<a href="https://www.ghost-iot.eu">GHOST</a>).
-I have previously worked as a postdoc in SECUSO at KIT and at Technische Universität Darmstadt (<a href="https://www.tu-darmstadt.de">TUDa</a>), and received my doctorate from TUDa in 2017.
+I am assistant professor at the IT University of Copenhagen (<a href="https://www.itu.dk">ITU</a>) and a member of the Center for Information Security and Trust (<a href="https://cist.dk">CIST</a>). I have previously worked as a post-doc in the Security, Usability and Society (<a href="https://secuso.aifb.kit.edu/index.php">SECUSO</a>) research group at Karlsruhe Institute of Technology (<a href="http://www.kit.edu">KIT</a>), in particular, collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (<a href="https://www.ghost-iot.eu">GHOST</a>), and before that, at Technische Universität Darmstadt (<a href="https://www.tu-darmstadt.de">TUDa</a>). I have received my doctorate from TUDa in 2017.
 
 My research interests focus on human factors in security and privacy, including privacy-related decision support for end users and risk communication, as well as issues of security and privacy in electronic voting. I am also currently working as a co-PI on the [ASCD](https://ascd.dk) project funded by the [Danish Centre for Cybersecurity](https://fe-ddis.dk/cfcs/Pages/cfcs.aspx), investigating cybersecurity and privacy practices in Danish companies.
 
@@ -37,14 +36,13 @@ Scientific services
 Organisation Activities
 
 - Track chair for the 5th International Joint Conference on Electronic Voting (E-VOTE-ID 2020)
-- 21st E-Voting PhD Colloquium, Karlsruhe Institute of Technology
+- 21st E-Voting PhD Colloquium, Karlsruhe Institute of Technology (2018)
 - 20th E-Voting PhD Colloquium, co-located with the 2nd International Joint Conference on Electronic Voting (E-VOTE-ID 2017)
 
 Program Committee Memberships
 
 - 15th International Conference on Availability, Reliability and Security (ARES 2020)
 - 5th European Workshop on Usable Security (EuroUSEC 2020)
-- 14th International Conference on Availability, Reliability and Security (ARES 2019)
 - 5th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2020)
 - Central European Cybersecurity Conference (CECC 2019)
 - 14th International Conference on Availability, Reliability and Security (ARES 2019)
