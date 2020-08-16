@@ -80,7 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Oksana Kulyk"
+  name             : "Oksana Kulyk"
+  avatar           : "profile.png"
   bio              : "Assistant professor at IT University of Copenhagen. Research interests include human factors in security, privacy, cryptography and electronic voting"
   location         : 
   employer         :
