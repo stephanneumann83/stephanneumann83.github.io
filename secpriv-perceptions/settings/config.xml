@@ -47,13 +47,13 @@
       <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
       <item id="form">
          <label>Age*</label>
-         <note>Please enter your year of birth (YYYY, eg. 1980).</note>
+         <note>Please enter your age.</note>
          <input type="text" required="true" maxlength="4" restricted="0-9"></input>
 
          <label>Gender*</label>
          <note>Please select your gender.</note>
-         <input type="radio" required="true">female;male</input>
-
+         <input type="radio" required="true">female;male;non-binary;prefer not to answer</input>
+      <!--
          <label>Please answer the following questions.</label>
          <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
 
@@ -62,6 +62,7 @@
 
          <label>What kind of transportation do you prefer?</label>
          <input type="select" required="false">Car;Railroad;Bike</input>
+      -->
 
          <label>Comments</label>
          <input type="textarea" required="false"></input>
