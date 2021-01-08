@@ -7,6 +7,22 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.de/citations?user=08IyY1AAAAAJ">my Google Scholar profile</a>.
 
+**Does My Smart Device Provider Care About My Privacy? Investigating Trust Factors and User Attitudes in IoT Systems**<br>
+Oksana Kulyk, Kristina Milanovic, Jeremy Pitt <br>
+In: Proceedings of the 11th Nordic Conference on Human-Computer Interaction (NordiCHI 2020): Shaping Experiences, Shaping Society (pp. 1-12).
+
+**Human Factors in Coercion Resistant Internet Voting–A Review of Existing Solutions and Open Challenges**<br>
+Oksana Kulyk, Stephan Neumann<br>
+In: Fifth International Joint Conference on Electronic Voting (E-Vote-ID 2020), TUT Press
+
+**Security and Privacy Awareness in Smart Environments–A Cross-Country Investigation**<br>
+Oksana Kulyk, Benjamin Reinheimer, Lukas Aldag, Peter Mayer, Nina Gerber, Melanie Volkamer<br>
+In: Financial Cryptography and Data Security Workshop on Usable Security (AsiaUSEC 2020)
+
+**Towards Improving the Efficacy of Code-Based Verification in Internet Voting**<br>
+Oksana Kulyk, Melanie Volkamer, Monika Müller, Karen Renaud<br>
+In: Financial Cryptography and Data Security Workshop on Advances in Secure Electronic Voting (VOTING 2020)
+
 **Comparing “Challenge-Based” and “Code-Based” Internet Voting Verification Implementations**<br>
 Oksana Kulyk, Jan Henzel, Karen Renaud, Melanie Volkamer<br>
 In: 17th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2019), 519-538
