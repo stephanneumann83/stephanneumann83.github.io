@@ -35,7 +35,7 @@ Scientific services
 
 Organisation Activities
 
-- Track chair for the 5th International Joint Conference on Electronic Voting (E-VOTE-ID 2021)
+- Track chair for the 6th International Joint Conference on Electronic Voting (E-VOTE-ID 2021)
 - Track chair for the 5th International Joint Conference on Electronic Voting (E-VOTE-ID 2020)
 - 21st E-Voting PhD Colloquium, Karlsruhe Institute of Technology (2018)
 - 20th E-Voting PhD Colloquium, co-located with the 2nd International Joint Conference on Electronic Voting (E-VOTE-ID 2017)
