@@ -15,9 +15,9 @@ My research interests focus on human factors in security and privacy, including 
 Teaching (lectures)
 ------
 
-- Spring 2020: Security 2 (ITU)
-- Fall 2019: Advanced security, "Usable security" module (ITU)
-- Fall 2019: Security and Privacy (ITU)
+- Spring 2020, 2021: Security 2 (ITU)
+- Fall 2019, 2020: Advanced security, "Usable security" module (ITU)
+- Fall 2019, 2020: Security and Privacy (ITU)
 - Winter 2018/2019: E-Voting (KIT)
 - Summer 2018: E-Voting (KIT)
 
@@ -35,12 +35,15 @@ Scientific services
 
 Organisation Activities
 
+- Track chair for the 5th International Joint Conference on Electronic Voting (E-VOTE-ID 2021)
 - Track chair for the 5th International Joint Conference on Electronic Voting (E-VOTE-ID 2020)
 - 21st E-Voting PhD Colloquium, Karlsruhe Institute of Technology (2018)
 - 20th E-Voting PhD Colloquium, co-located with the 2nd International Joint Conference on Electronic Voting (E-VOTE-ID 2017)
 
 Program Committee Memberships
 
+- 16th International Conference on Availability, Reliability and Security (ARES 2021)
+- 6th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2021)
 - 15th International Conference on Availability, Reliability and Security (ARES 2020)
 - 5th European Workshop on Usable Security (EuroUSEC 2020)
 - 5th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2020)
