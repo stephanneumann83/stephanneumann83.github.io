@@ -16,8 +16,8 @@ Teaching (lectures)
 ------
 
 - Spring 2020, 2021: Security 2 (ITU)
-- Fall 2019, 2020: Advanced security, "Usable security" module (ITU)
-- Fall 2019, 2020: Security and Privacy (ITU)
+- Fall 2019, 2020, 2021: Advanced security, "Usable security" module (ITU)
+- Fall 2019, 2020, 2021: Security and Privacy (ITU)
 - Winter 2018/2019: E-Voting (KIT)
 - Summer 2018: E-Voting (KIT)
 

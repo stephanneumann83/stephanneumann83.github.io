@@ -7,6 +7,22 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.de/citations?user=08IyY1AAAAAJ">my Google Scholar profile</a>.
 
+**"I need to know I'm safe and protected and will check": users want cues to signal data custodians' trustworthiness**<br>
+Oksana Kulyk, Karen Renaud<br>
+2021 Workshop on Human Centric Software Engineering and Cyber Security
+
+**Usable Verifiable Secrecy-Preserving E-Voting**<br>
+Oksana Kulyk, Jonas Ludwig, Melanie Volkamer, Reto Koenig, Philipp Locher<br>
+Electronic Voting: 6th International Joint Conference, E-Vote-ID 2021
+
+**Voter Perceptions of Trust in Risk-Limiting Audits**<br>
+A Dalela, O Kulyk, C Schürmann<br>
+Electronic Voting: 6th International Joint Conference, E-Vote-ID 2021
+
+**Dark Patterns in the Wild: Review of Cookie Disclaimer Designs on Top 500 German Websites**<br>
+Chiara Krisam, Heike Dietmann, Melanie Volkamer, Oksana Kulyk<br>
+European Workshop of Usable Security (EuroUSEC 2021)
+
 **Does My Smart Device Provider Care About My Privacy? Investigating Trust Factors and User Attitudes in IoT Systems**<br>
 Oksana Kulyk, Kristina Milanovic, Jeremy Pitt <br>
 In: Proceedings of the 11th Nordic Conference on Human-Computer Interaction (NordiCHI 2020): Shaping Experiences, Shaping Society (pp. 1-12).
