@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am assistant professor at the IT University of Copenhagen (<a href="https://www.itu.dk">ITU</a>) and a member of the Center for Information Security and Trust (<a href="https://cist.dk">CIST</a>). I have previously worked as a post-doc in the Security, Usability and Society (<a href="https://secuso.aifb.kit.edu/index.php">SECUSO</a>) research group at Karlsruhe Institute of Technology (<a href="http://www.kit.edu">KIT</a>), in particular, collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (<a href="https://www.ghost-iot.eu">GHOST</a>), and before that, at Technische Universität Darmstadt (<a href="https://www.tu-darmstadt.de">TUDa</a>). I have received my doctorate from TUDa in 2017.
+I am associate professor at the IT University of Copenhagen (<a href="https://www.itu.dk">ITU</a>) and a member of the Center for Information Security and Trust (<a href="https://cist.dk">CIST</a>). I have previously worked as a post-doc in the Security, Usability and Society (<a href="https://secuso.aifb.kit.edu/index.php">SECUSO</a>) research group at Karlsruhe Institute of Technology (<a href="http://www.kit.edu">KIT</a>), in particular, collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (<a href="https://www.ghost-iot.eu">GHOST</a>), and before that, at Technische Universität Darmstadt (<a href="https://www.tu-darmstadt.de">TUDa</a>). I have received my doctorate from TUDa in 2017.
 
-My research interests focus on human factors in security and privacy, including privacy-related decision support for end users and risk communication, as well as issues of security and privacy in electronic voting. Until December 2020, I have also been working as a co-PI on the [ASCD](https://ascd.dk) project funded by the [Danish Centre for Cybersecurity](https://fe-ddis.dk/cfcs/Pages/cfcs.aspx), investigating cybersecurity and privacy practices in Danish companies.
+My research interests focus on human factors in security and privacy, including privacy-related decision support for end users and risk communication, as well as issues of security and privacy in electronic voting. Until December 2020, I have also been working as a co-PI on the [ASCD](https://ascd.dk) project funded by the [Danish Centre for Cybersecurity](https://fe-ddis.dk/cfcs/Pages/cfcs.aspx), investigating cybersecurity and privacy practices in Danish companies. Starting from January 2022, I am working as a PI for the project COMET (Communicating trust in the security of election technologies) funded by <a href="https://veluxfoundations.dk/en">Vellux Foundation</a> (Villum Experiment Program). The purpose of the project is to understand how trust in election technologies is created and maintained among the voters, and how should voting systems be designed in order to facilitate this trust.
 
 Teaching (lectures)
 ------
@@ -35,6 +35,8 @@ Scientific services
 
 Organisation Activities
 
+- Program committee chair for the 6th European Workshop on Usable Security (EuroUSEC 2022)
+- Steering comitttee member for the 7th International Joint Conference on Electronic Voting (E-VOTE-ID 2022)
 - Track chair for the 6th International Joint Conference on Electronic Voting (E-VOTE-ID 2021)
 - Track chair for the 5th International Joint Conference on Electronic Voting (E-VOTE-ID 2020)
 - 21st E-Voting PhD Colloquium, Karlsruhe Institute of Technology (2018)
@@ -42,6 +44,9 @@ Organisation Activities
 
 Program Committee Memberships
 
+- Nordic conference on human-computer interaction (NordiCHI 2022)
+- 17th International Conference on Availability, Reliability and Security (ARES 2022)
+- 7th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2022)
 - 16th International Conference on Availability, Reliability and Security (ARES 2021)
 - 6th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2021)
 - 15th International Conference on Availability, Reliability and Security (ARES 2020)
