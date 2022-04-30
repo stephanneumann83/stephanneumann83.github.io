@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Oksana Kulyk"
 title_separator          : "-"
 name                     : &name "Oksana Kulyk"
-description              : &description "Assistant professor at IT University of Copenhagen"
+description              : &description "Associate professor at IT University of Copenhagen"
 url                      : https://okskulyk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "okskulyk.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Oksana Kulyk"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Assistant professor at IT University of Copenhagen. Research interests include human factors in security, privacy, cryptography and electronic voting"
   location         : 
   employer         :
