@@ -49,7 +49,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-theme: jekyll-theme-minimal
 
 # SEO Related
 google_site_verification :
