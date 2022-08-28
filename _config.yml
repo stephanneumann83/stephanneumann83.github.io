@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oksana Kulyk"
+title                    : "Stephan Neumann"
 title_separator          : "-"
-name                     : &name "Oksana Kulyk"
-description              : &description "Associate professor at IT University of Copenhagen"
+name                     : &name "Stephan Neumann"
+description              : &description "Head of DigiLab & Development -- Security, Cryptography, and Privacy Researcher"
 url                      : https://okskulyk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "okskulyk.github.io"
+repository               : "https://www.stephanneumann.de"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oksana Kulyk"
-  avatar           : "profile.jpg"
-  bio              : "Assistant professor at IT University of Copenhagen. Research interests include human factors in security, privacy, cryptography and electronic voting"
+  name             : "Stephan Neumann"
+  avatar           : "profile2.jpg"
+  bio              : "Head of DigiLab & Development -- Security, Cryptography, and Privacy Researcher"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.de/citations?user=08IyY1AAAAAJ"
-  email            : "okku@itu.dk"
-  researchgate     : "https://www.researchgate.net/profile/Oksana_Kulyk"
+  googlescholar    : "https://scholar.google.com/citations?user=EfOOPRoAAAAJ&hl=de"
+  email            : "stephan@stephanneumann.de"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/dr-stephan-n-3830864a/"
+  orcid            : #"https://orcid.org/0000-0003-0091-493X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "okskulyk"
+  twitter          :
   vine             :
   weibo            :
   xing             :
