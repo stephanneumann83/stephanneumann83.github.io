@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stephan Neumann"
+  name             : "Dr. Stephan Neumann"
   avatar           : "1659878177751.jpeg"
-  bio              : "Head of DigiLab & Development <br> Security, Cryptography, and Privacy Researcher"
+  bio              : "Head of DigiLab & Development" <br> <br> "Security, Cryptography, and Privacy Researcher"
   location         : 
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/dr-stephan-n-3830864a/"
-  orcid            : #"https://orcid.org/0000-0003-0091-493X"
+  orcid            : "https://orcid.org/0000-0003-0091-493X"
   pinterest        :
   soundcloud       :
   stackoverflow    :
