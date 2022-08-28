@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since February 2020 I have been the head of the DigiLab & Development unit, an innovation and development unit, for SaarLB (Landesbank Saar) in Saarbrücken. In addition, since February 2019 I have been working irregularly as a lecturer for cryptography and information security at the Baden-Württemberg Cooperative State University.
+Since February 2020 I have been the head of the DigiLab & Development unit, an innovation and development unit, for [SaarLB](https://www.saarlb.de) (Landesbank Saar) in Saarbrücken. In addition, since February 2019 I have been working irregularly as a lecturer for cryptography and information security at the Baden-Württemberg Cooperative State University.
 
 Between March 2017 and February 2020 I worked as Information Security Officer for SaarLB (Landesbank Saar). From May 2016 to February 2017 I worked as a postdoctoral researcher in computer science at the Technical University of Darmstadt in the SECUSO (Security, Usability, and Society) group (now at Karlsruhe Institute of Technology). I completed my doctorate at the Technical University of Darmstadt in 2016. I furthermore completed my bachelor's and master's degree in computer science in 2009 and 2011 respectively at Saarland University. I completed parts of my studies and my doctorate at the Università di Bologna (Host: Prof. Dr. Marco Prandini). I completed further scientific stays at the University of Bristol and at the Bern University of Applied Sciences.
 
