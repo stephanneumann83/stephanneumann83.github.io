@@ -8,72 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am associate professor at the IT University of Copenhagen (<a href="https://www.itu.dk">ITU</a>) and a member of the Center for Information Security and Trust (<a href="https://cisat.dk">CISAT</a>). I have previously worked as a post-doc in the Security, Usability and Society (<a href="https://secuso.aifb.kit.edu/index.php">SECUSO</a>) research group at Karlsruhe Institute of Technology (<a href="http://www.kit.edu">KIT</a>), in particular, collaborating on the EU Project "Safe-Guarding Home IoT Environments with Personalised Real-time Risk Control" (<a href="https://www.ghost-iot.eu">GHOST</a>), and before that, at Technische Universität Darmstadt (<a href="https://www.tu-darmstadt.de">TUDa</a>). I have received my doctorate from TUDa in 2017.
-
-My research interests focus on human factors in security and privacy, including privacy-related decision support for end users and risk communication, as well as issues of security and privacy in electronic voting. Until December 2020, I have also been working as a co-PI on the [ASCD](https://ascd.dk) project funded by the [Danish Centre for Cybersecurity](https://fe-ddis.dk/cfcs/Pages/cfcs.aspx), investigating cybersecurity and privacy practices in Danish companies. Starting from January 2022, I am working as a PI for the project COMET (Communicating trust in the security of election technologies) funded by <a href="https://veluxfoundations.dk/en">Velux Foundation</a> (Villum Experiment Program). The purpose of the project is to understand how trust in election technologies is created and maintained among the voters, and how should voting systems be designed in order to facilitate this trust.
-
-Teaching (lectures)
-------
-
-- Spring 2020, 2021: Security 2 (ITU)
-- Fall 2019, 2020, 2021: Advanced security, "Usable security" module (ITU)
-- Fall 2019, 2020, 2021: Security and Privacy (ITU)
-- Winter 2018/2019: E-Voting (KIT)
-- Summer 2018: E-Voting (KIT)
-
-Potential student projects
-------
-
-Contact me if you are interested in doing a project, including writing a Bachelor/Master thesis, on following and related topics:
-
-- E-voting and other forms of e-participation, incl. cryptography and human factors as well as issues of coercion resistance and verifiability
-- Privacy, incl. human factors and technical solutions for privacy-enchancing technologies, privacy decision support, privacy notices, usable privacy settings, transparency
-- Trust and acceptance of security- and privacy-critical technologies
-
-Scientific services
-------
-
-Organisation Activities
-
-- Program committee chair for the 6th European Workshop on Usable Security (EuroUSEC 2022)
-- Steering comitttee member for the 7th International Joint Conference on Electronic Voting (E-VOTE-ID 2022)
-- Track chair for the 6th International Joint Conference on Electronic Voting (E-VOTE-ID 2021)
-- Track chair for the 5th International Joint Conference on Electronic Voting (E-VOTE-ID 2020)
-- 21st E-Voting PhD Colloquium, Karlsruhe Institute of Technology (2018)
-- 20th E-Voting PhD Colloquium, co-located with the 2nd International Joint Conference on Electronic Voting (E-VOTE-ID 2017)
-
-Program Committee Memberships
-
-- Nordic conference on human-computer interaction (NordiCHI 2022)
-- 17th International Conference on Availability, Reliability and Security (ARES 2022)
-- 7th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2022)
-- 16th International Conference on Availability, Reliability and Security (ARES 2021)
-- 6th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2021)
-- 15th International Conference on Availability, Reliability and Security (ARES 2020)
-- 5th European Workshop on Usable Security (EuroUSEC 2020)
-- 5th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2020)
-- Central European Cybersecurity Conference (CECC 2019)
-- 14th International Conference on Availability, Reliability and Security (ARES 2019)
-- 4th International Joint Conference on Electronic Voting (E-VOTE-ID 2019)
-- 4th Workshop on Advances in Secure Electronic Voting, in association with Financial Crypto (Voting 2019)
-- 3rd International Joint Conference on Electronic Voting (E-VOTE-ID 2018)
-- 1st Interdisciplinary Workshop on Privacy and Trust (iPAT 2018), co-located with ARES 2018.
-- 13th International Conference on Availability, Reliability and Security (ARES 2018)
-- 44th GI Jahrestagung / Workshop: Elektronische Wahlen. September 2014. Stuttgart, Germany. 
-
-Reviewing Activities
-
-- 17th International Conference on Mobile and Ubiquitous Multimedia (MUM 2018)
-- Security and Communication Networks Journal
-- Journal of Information Security and Applications
-- Financial Cryptography, 2nd Workshop on Advances in Secure Electronic Voting Schemes (VOTING'17)
-- NDSS Workshop on Usable Security (USEC 2017)
-- Computers & Security Journal
-- Computer Communications - The International Journal for the Computer and Telecommunications Industry
-- Socio-Technical Aspects in Security and Trust (STAST 2016)
-- Workshop Nutzerzentrierte Sicherheit (NzS 2016)
-- NDSS Workshop on Usable Security (USEC 2016)
-- Financial Cryptography, 1st Workshop on Advances in Secure Electronic Voting Schemes (VOTING'16)
-- The 14th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-15)
-- 30th IFIP TC-11 SEC 2015 International Information Security and Privacy Conference (IFIP SEC 2015)
-- 3rd International Conference on Electronic Government and the Information Systems Perspective (EGOVIS 2014)
+Since February 2020 I have been the head of the DigiLab & Development unit, an innovation and development unit, for SaarLB (Landesbank Saar) in Saarbrücken. In addition, since February 2019 I have been working irregularly as a lecturer for cryptography and information security at the Baden-Württemberg Cooperative State University.
+Between March 2017 and February 2020 I worked as Information Security Officer for SaarLB (Landesbank Saar). From May 2016 to February 2017 I worked as a postdoctoral researcher in computer science at the Technical University of Darmstadt in the SECUSO (Security, Usability, and Society) group (now at Karlsruhe Institute of Technology). I completed my doctorate at the Technical University of Darmstadt in 2016. I furthermore completed my bachelor's and master's degree in computer science in 2009 and 2011 respectively at Saarland University. I completed parts of my studies and my doctorate at the Università di Bologna (Host: Prof. Dr. Marco Prandini). I completed further scientific stays at the University of Bristol and at the Bern University of Applied Sciences.
+My research deals with questions of usable IT security and applied cryptography, with a special focus on the security of electronic voting systems, secure digital communication and security awareness. Recently, my interest has increasingly focused on the possibilities of modern cryptography and its application to protect privacy, e.g. fully homomorphic cryptography (FHE), multi party computation (MPC) and post quantum cryptography (PQC). My research resulted in more than 40 publications, including academic papers at major international conferences and in major international journals such as IFIP SEC, IEEE Security & Privacy and ARES. The most relevant result of my research is the development of a framework for evaluating the security of internet voting systems (SecIVo: a quantitative security evaluation framework for internet voting schemes and Election-Dependent Security Evaluation of Internet Voting Schemes) as well as the development of the internet voting system Pretty Understandable Democracy and the work on the practicability of the coercion-resistant internet voting system Civitas (Civitas and the real world und Towards A Practical JCJ / Civitas Implementation). In further research I dealt with the usability of the end-to-end verifiable Helios internet voting system (Helios Verification: To Alleviate, or to Nominate: Is That the Question, or Shall we Have Both?) as well as security awareness for SMEs (Don’t Be Deceived: The Message Might Be Fake and Effektiver Schutz vor betrügerischen Nachrichten).
+I am/was editor/organizer/reviewer of various international journals and conferences, including Journal of Information Security and Applications, Cryptography – Open Access Journal, Security, Privacy, and Authentication section of the Frontiers in Communications and Networks, the Elsevier Journal Government Information Quarterly, the Elsevier Journal of Information Security and Applications, the International Conference on E-voting and Identity (formerly VoteID, now E-Vote-ID) as well as the International Conference on Availability, Reliability and Security (ARES) (since 2020).
+In 2016, as an advisor to the Council of Europe, I contributed to the revision of Recommendation CM/Rec(2017)5 of the Committee of Ministers to member States on standards for e-voting. In 2021, I was invited as a subject matter expert for a study on the 2023 Social Security election (German: Sozialversicherungswahlen). In 2012, I was accepted into the Software Campus management development program to implement a research project BoRoVo (secure, robust, efficient and flexible, decentralized voting systems for spontaneous elections in management) (approved funding projects receive funding of up to 100,000 euros from the BMBF).
+I was an invited guest speaker at the Bitkom Academy, the Friedrich Naumann Foundation and the University of Bristol. Irregularly, I offer guest lectures at universities, e.g. at the Helmholtz Center for Information Security (CISPA). I was a co-initiator and invited expert of the Cybersecurity Day 2021 at the East Side Fab (in 2022 the Cybersecurity Day was expanded with a hackathon).
+I am a member of the German Informatics Society and the IACR - International Association for Cryptologic Research.
+My Erdős number is 3 (Stephan Neumann - Johannes Buchmann - Kálmán Győry - Paul Erdős).
+You can find an overview of my scientific activities in the science section and an overview of my publications in the publications section. If you are interested in working with me (e.g. for internships or theses), please do not hesitate to contact me (see contact details below).
+You can find more information about my work in my LinkedIn profile, my Xing profile, my ResearchGate profile and my Google Scholar profile (please note that some profiles may only be visible after logging in to the respective platform). My ORCID ID is 0000-0003-0091-493X.
