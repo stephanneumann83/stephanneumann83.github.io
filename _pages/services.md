@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Board member
----
+-----
 * Cryptography — Open Access Journal — published quarterly online by MDPI.
 
 * Editorial Board Member of the Security, Privacy, and Authentication section of the Frontiers in Communications and Networks Journal.
