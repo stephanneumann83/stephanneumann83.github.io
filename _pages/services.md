@@ -21,13 +21,13 @@ Program committee member
 
 * 6th International Workshop on Socio-Technical Aspects in Security and Trust. December 2016. Los Angeles, California, US.
 
-* 46. GI Jahrestagung / Workshop: Nutzerzentrierte Sicherheit. September, 2016. Klagenfurt, Austria.
+* 46th GI Jahrestagung / Workshop: Nutzerzentrierte Sicherheit. September, 2016. Klagenfurt, Austria.
 
 * 5th International Conference on E-voting and Identity. September 2015. Bern, Switzerland.
 
 * 9th - 12th International Conference on Internet Monitoring and Protection (ICIMP). 2013 - 2016.
 
-* 43. GI Jahrestagung / Workshop: Elektronische Wahlen. September 2013. Koblenz, Germany.
+* 43th GI Jahrestagung / Workshop: Elektronische Wahlen. September 2013. Koblenz, Germany.
 
 
 Reviewer
@@ -50,7 +50,7 @@ Editor
 ---
 * Journal of Information Security and Applications (Special Issue on Electronic Voting), 2017.
 
-Subject matter export
+Subject matter expert
 ---
 
 * Subject matter expert for a study on the 2023 Social Security election as online voting - Virtual Interview. 2020. (Proof is available)
@@ -63,4 +63,4 @@ Organisator / Initiator
 ---
 * Initiator and invited expert at Cybersecurity Day 2021 of East Side Fab. 2021. (Also Cybersecurity Day 2022)
 
-* 44. GI Jahrestagung / Workshop: Elektronische Wahlen. September 2014. Stuttgart, Germany.
+* 44th GI Jahrestagung / Workshop: Elektronische Wahlen. September 2014. Stuttgart, Germany.
