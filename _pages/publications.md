@@ -5,20 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Fostering financial stability through quantitative security evaluation in credit processes (Poster) <br>
-
+* Fostering financial stability through quantitative security evaluation in credit processes (Poster) <br>
 Stephan Neumann, Oksana Kulyk. Accepted at Financial Cryptography and Data Security 2022 (FC22). May 2022. (Removed from the program because of absence)
 
-**Recent Developments in the Context of Online Elections and Digital Polls in Germany <br>
+* Recent Developments in the Context of Online Elections and Digital Polls in Germany <br>
 Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kulyk, Ralf Küsters, Andreas Mayer, Jörn Müller-Quade, Stephan Neumann, Melanie Volkamer. GI Sicherheit 2022. April 2022.
 
-**Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen - Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kulyk, Ralf Küsters, Andreas Mayer, Jörn Müller-Quade, Stephan Neumann, Melanie Volkamer. In: 10.5445/IR/1000137300. September 2021.
-Das Kundenportal der Saar LB - ein Impuls der Digitalisierungsstrategie - Matthias Böcker, Frank-Oliver Groß, Stephan Neumann. In: Zeitschrift für das gesamte Kreditwesen - 14/2021, July 2021.
-Human Factors in Coercion Resistant Internet Voting – A Review of Existing Solutions and Open Challenges - Oksana Kulyk, Stephan Neumann. In: Fifth International Joint Conference on Electronic Voting (E-Vote-ID 2020).
-SARS-CoV-2, a Threat to Privacy? - Tim Daubenschuetz, Oksana Kulyk, Stephan Neumann, Isabella Hinterleitner, Paula Ramos Delgado, Carmen Hoffmann, Florian Scheible. In: arXiv preprint arXiv:2004.10305, April 2020.
-Blockchain - Chancen und Herausforderungen für die Finanzbranche - Stephan Neumann. In: DigiPraktiker (Finanz Colloquium Heidelberg), vol. 6/2018, p. 74-79, June 2018. 
-Effektiver Schutz vor betrügerischen Nachrichten: Ein Schulungsprogramm zur Erkennung betrügerischer Nachrichten für KMU - Stephan Neumann, Benjamin Reinheimer, Melanie Volkamer, Christian Schwartz, Alexandra Kunz. In: Datenschutz und Datensicherheit, vol. 5/2018, p. 301-306, Mai 2018. 
-Election-Dependent Security Evaluation of Internet Voting Schemes - Stephan Neumann, Manuel Noll, Melanie Volkamer. In: ICT Systems Security and Privacy Protection. SEC 2017. IFIP Advances in Information and Communication Technology, Vol. 502, p. 371-382, May 2017.
+* Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen - Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kulyk, Ralf Küsters, Andreas Mayer, Jörn Müller-Quade, Stephan Neumann, Melanie Volkamer. In: 10.5445/IR/1000137300. September 2021.
+
+* Das Kundenportal der Saar LB - ein Impuls der Digitalisierungsstrategie - Matthias Böcker, Frank-Oliver Groß, Stephan Neumann. In: Zeitschrift für das gesamte Kreditwesen - 14/2021, July 2021.
+
+* Human Factors in Coercion Resistant Internet Voting – A Review of Existing Solutions and Open Challenges - Oksana Kulyk, Stephan Neumann. In: Fifth International Joint Conference on Electronic Voting (E-Vote-ID 2020).
+
+* SARS-CoV-2, a Threat to Privacy? - Tim Daubenschuetz, Oksana Kulyk, Stephan Neumann, Isabella Hinterleitner, Paula Ramos Delgado, Carmen Hoffmann, Florian Scheible. In: arXiv preprint arXiv:2004.10305, April 2020.
+
+* Blockchain - Chancen und Herausforderungen für die Finanzbranche - Stephan Neumann. In: DigiPraktiker (Finanz Colloquium Heidelberg), vol. 6/2018, p. 74-79, June 2018. 
+
+* Effektiver Schutz vor betrügerischen Nachrichten: Ein Schulungsprogramm zur Erkennung betrügerischer Nachrichten für KMU - Stephan Neumann, Benjamin Reinheimer, Melanie Volkamer, Christian Schwartz, Alexandra Kunz. In: Datenschutz und Datensicherheit, vol. 5/2018, p. 301-306, Mai 2018. 
+
+* Election-Dependent Security Evaluation of Internet Voting Schemes - Stephan Neumann, Manuel Noll, Melanie Volkamer. In: ICT Systems Security and Privacy Protection. SEC 2017. IFIP Advances in Information and Communication Technology, Vol. 502, p. 371-382, May 2017.
 Don't be Deceived: The Message Might be Fake - Stephan Neumann, Benjamin Reinheimer, Melanie Volkamer. In: 14th International Conference On Trust, Privacy & Security In Digital Business (TrustBus), August 2017.
 Enabling Vote Delegation in Boardroom Voting - Oksana Kulyk, Stephan Neumann, Karola Marky, Melanie Volkamer. In: Workshop on Advances in Secure Electronic Voting Associated with Financial Crypto 2017, April 2017.
 Sicherheit in der Kommunikation: kostenloses Maßnahmen-Angebot für KMU gegen Internetbetrug - Silke Rehfeld, Melanie Volkamer, Stephan Neumann. In: Mittelstand 4.0 - Agentur Kommunikation, January 2017.
