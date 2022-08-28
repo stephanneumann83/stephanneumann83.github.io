@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Fostering financial stability through quantitative security evaluation in credit processes (Poster) <br>
+* Fostering financial stability through quantitative security evaluation in credit processes (Poster) <br>
 Stephan Neumann, Oksana Kulyk. Accepted at Financial Cryptography and Data Security 2022 (FC22). May 2022. (Removed from the program because of absence)
 
 **Recent Developments in the Context of Online Elections and Digital Polls in Germany <br>
