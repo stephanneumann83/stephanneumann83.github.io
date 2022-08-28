@@ -23,5 +23,4 @@ I am a member of the German Informatics Society and the IACR - International Ass
 
 My Erdős number is 3 (Stephan Neumann - Johannes Buchmann - Kálmán Győry - Paul Erdős).
 
-You can find an overview of my scientific activities in the science section and an overview of my publications in the publications section. If you are interested in working with me (e.g. for internships or theses), please do not hesitate to contact me (see contact details below).
-You can find more information about my work in my LinkedIn profile, my Xing profile, my ResearchGate profile and my Google Scholar profile (please note that some profiles may only be visible after logging in to the respective platform). My ORCID ID is 0000-0003-0091-493X.
+You can find an overview of my scientific activities in the science section and an overview of my publications in the publications section. If you are interested in working with me (e.g. for internships or theses), please do not hesitate to contact me.
