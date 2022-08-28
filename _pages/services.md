@@ -5,14 +5,14 @@ permalink: /services/
 author_profile: true
 ---
 
-Board member
----
+### Board member
+
 * Cryptography — Open Access Journal — published quarterly online by MDPI.
 
 * Editorial Board Member of the Security, Privacy, and Authentication section of the Frontiers in Communications and Networks Journal.
 
-Program committee member
----
+### Program committee member
+
 * 15th - 17th International Conference on Availability, Reliability and Security (ARES). 2020 - 2022.
 
 * 5th - 7th International Joint Conference on Electronic Voting. 2020 - 2022.
@@ -30,8 +30,8 @@ Program committee member
 * 43th GI Jahrestagung / Workshop: Elektronische Wahlen. September 2013. Koblenz, Germany.
 
 
-Reviewer
----
+### Reviewer
+
 * 1st International Workshop on Election Infrastructure Security (EIS 2022) (Subreviewer)
 
 * Entropy - Open Access Journal - Special Issue: Swarms and Network Intelligence.  Yaniv Altshuler, Camara Pereira, Eli David (Guest Editors). 2022.
@@ -46,12 +46,11 @@ Reviewer
 
 * Applicable Algebra in Engineering, Communication and Computing, Special Issue "Computer Algebra in Coding Theory and Cryptography (ACA 2012)". E. Martinez-Moro, Iliya Bouyukliev, S. Bulygin (Guest Editors). 2012.
 
-Editor
----
+### Editor
+
 * Journal of Information Security and Applications (Special Issue on Electronic Voting), 2017.
 
-Subject matter expert
----
+### Subject matter expert
 
 * Subject matter expert for a study on the 2023 Social Security election as online voting - Virtual Interview. 2020. (Proof is available)
 
@@ -59,8 +58,8 @@ Subject matter expert
 
 * External Expert Reviewer of the master thesis: Decentralized E-Voting on Android Devices Using Homomorphic Tallying. Berner Fachhochschule, Switzerland. 2014.
 
-Organisator / Initiator
----
+### Organisator / Initiator
+
 * Initiator and invited expert at Cybersecurity Day 2021 of East Side Fab. 2021. (Also Cybersecurity Day 2022)
 
 * 44th GI Jahrestagung / Workshop: Elektronische Wahlen. September 2014. Stuttgart, Germany.
