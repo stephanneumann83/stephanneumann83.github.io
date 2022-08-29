@@ -24,4 +24,4 @@ I was an invited guest speaker at the [Bitkom Academy](https://bitkom-akademie.d
 
 I am a member of the [German Informatics Society](https://www.gi.de) and the [IACR - International Association for Cryptologic Research](https://www.iacr.org). My Erdős number is 3 (Stephan Neumann - [Johannes Buchmann](https://en.wikipedia.org/wiki/Johannes_Buchmann) - [Kálmán Győry](https://hu.wikipedia.org/wiki/Győry_Kálmán) - [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erdős)).
 
-If you are interested in working with me (e.g. for internships or theses), please do not hesitate to contact me (refer to my biography for contact details).
+If you are interested in working with me (e.g. for internships or theses), please do not hesitate to contact me (refer to my biography for contact details). [contact me](mailto:stephan@stephanneumann.de?subject=[Collaboration)
