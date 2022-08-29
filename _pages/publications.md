@@ -25,13 +25,13 @@ Oksana Kulyk, **Stephan Neumann**. In: Fifth International Joint Conference on E
 * **SARS-CoV-2, a Threat to Privacy?** ([Link](https://arxiv.org/abs/2004.10305))<br>
 Tim Daubenschuetz, Oksana Kulyk, **Stephan Neumann**, Isabella Hinterleitner, Paula Ramos Delgado, Carmen Hoffmann, Florian Scheible. In: arXiv preprint arXiv:2004.10305, April 2020.
 
-* **Blockchain - Chancen und Herausforderungen für die Finanzbranche** <br>
+* **Blockchain - Chancen und Herausforderungen für die Finanzbranche** ([Link](https://www.fch-gruppe.de/wp-content/uploads/2019/07/BP_DP_06_2018_web.pdf))<br>
 **Stephan Neumann**. In: DigiPraktiker (Finanz Colloquium Heidelberg), vol. 6/2018, p. 74-79, June 2018. 
 
-* **Effektiver Schutz vor betrügerischen Nachrichten: Ein Schulungsprogramm zur Erkennung betrügerischer Nachrichten für KMU** <br>
+* **Effektiver Schutz vor betrügerischen Nachrichten: Ein Schulungsprogramm zur Erkennung betrügerischer Nachrichten für KMU** ([Link](https://link.springer.com/article/10.1007%2Fs11623-018-0945-x))<br>
 **Stephan Neumann**, Benjamin Reinheimer, Melanie Volkamer, Christian Schwartz, Alexandra Kunz. In: Datenschutz und Datensicherheit, vol. 5/2018, p. 301-306, Mai 2018. 
 
-* **Election-Dependent Security Evaluation of Internet Voting Schemes** <br>
+* **Election-Dependent Security Evaluation of Internet Voting Schemes** ([Link](https://link.springer.com/chapter/10.1007%2F978-3-319-58469-0_25))<br>
 **Stephan Neumann**, Manuel Noll, Melanie Volkamer. In: ICT Systems Security and Privacy Protection. SEC 2017. IFIP Advances in Information and Communication Technology, Vol. 502, p. 371-382, May 2017.
 
 * **Don't be Deceived: The Message Might be Fake** <br>
