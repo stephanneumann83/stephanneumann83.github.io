@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=EfOOPRoAAAAJ&hl=de">my Google Scholar profile</a>. Most of my articles are publicly available. Please do not hesistate to contact me if you cannot find an article.
 
-* **Fostering financial stability through quantitative security evaluation in credit processes (Poster)** [(Link)](https://fc22.ifca.ai/program.html) <br>
+* **Fostering financial stability through quantitative security evaluation in credit processes (Poster)** ([Link](https://fc22.ifca.ai/program.html)) <br>
 **Stephan Neumann**, Oksana Kulyk. Accepted at Financial Cryptography and Data Security 2022 (FC22). May 2022. (Removed from the program because of absence)
 
 * **Recent Developments in the Context of Online Elections and Digital Polls in Germany** <br>
