@@ -19,10 +19,10 @@ Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kuly
 * **Das Kundenportal der Saar LB - ein Impuls der Digitalisierungsstrategie** ([Link](https://www.kreditwesen.de/sites/default/files/content/inserts/2021/zfgk_2021-14_neumann_gross_boecker_dsd.pdf))<br>
 Matthias Böcker, Frank-Oliver Groß, **Stephan Neumann**. In: Zeitschrift für das gesamte Kreditwesen - 14/2021, July 2021.
 
-* **Human Factors in Coercion Resistant Internet Voting – A Review of Existing Solutions and Open Challenges** <br>
+* **Human Factors in Coercion Resistant Internet Voting – A Review of Existing Solutions and Open Challenges** ([Link](https://pure.itu.dk/portal/files/85567889/Human_factors_in_coercion_resistant_voting_13_2.pdf))<br>
 Oksana Kulyk, **Stephan Neumann**. In: Fifth International Joint Conference on Electronic Voting (E-Vote-ID 2020).
 
-* **SARS-CoV-2, a Threat to Privacy?** <br>
+* **SARS-CoV-2, a Threat to Privacy?** ([Link](https://arxiv.org/abs/2004.10305))<br>
 Tim Daubenschuetz, Oksana Kulyk, **Stephan Neumann**, Isabella Hinterleitner, Paula Ramos Delgado, Carmen Hoffmann, Florian Scheible. In: arXiv preprint arXiv:2004.10305, April 2020.
 
 * **Blockchain - Chancen und Herausforderungen für die Finanzbranche** <br>
