@@ -13,10 +13,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 * **Recent Developments in the Context of Online Elections and Digital Polls in Germany** <br>
 Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kulyk, Ralf Küsters, Andreas Mayer, Jörn Müller-Quade, **Stephan Neumann**, Melanie Volkamer. GI Sicherheit 2022. April 2022.
 
-* **Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen** [(Link)](https://publikationen.bibliothek.kit.edu/1000137300/126120082)<br>
+* **Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen** ([Link](https://publikationen.bibliothek.kit.edu/1000137300/126120082))<br>
 Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kulyk, Ralf Küsters, Andreas Mayer, Jörn Müller-Quade, **Stephan Neumann**, Melanie Volkamer. In: 10.5445/IR/1000137300. September 2021.
 
-* **Das Kundenportal der Saar LB - ein Impuls der Digitalisierungsstrategie** <br>
+* **Das Kundenportal der Saar LB - ein Impuls der Digitalisierungsstrategie** ([Link](https://www.kreditwesen.de/sites/default/files/content/inserts/2021/zfgk_2021-14_neumann_gross_boecker_dsd.pdf))<br>
 Matthias Böcker, Frank-Oliver Groß, **Stephan Neumann**. In: Zeitschrift für das gesamte Kreditwesen - 14/2021, July 2021.
 
 * **Human Factors in Coercion Resistant Internet Voting – A Review of Existing Solutions and Open Challenges** <br>
