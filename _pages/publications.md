@@ -10,8 +10,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 * **Fostering financial stability through quantitative security evaluation in credit processes (Poster)** ([Link](https://fc22.ifca.ai/program.html)) <br>
 **Stephan Neumann**, Oksana Kulyk. Accepted at Financial Cryptography and Data Security 2022 (FC22). May 2022. (Removed from the program because of absence)
 
-* **Recent Developments in the Context of Online Elections and Digital Polls in Germany** <br>
-Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kulyk, Ralf Küsters, Andreas Mayer, Jörn Müller-Quade, **Stephan Neumann**, Melanie Volkamer. GI Sicherheit 2022. April 2022.
+* **Recent Developments in the Context of Online Elections and Digital Polls in Germany** <br> ([Link](https://publikationen.bibliothek.kit.edu/1000142618))
+Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kulyk, Ralf Küsters, Andreas Mayer, Jörn Müller-Quade, **Stephan Neumann**, Melanie Volkamer. In Sicherheit 2022: Sicherheit, Schutz und Zuverlässigkeit: Konferenzband der 11. Jahrestagung des Fachbereichs Sicherheit der Gesellschaft für Informatik e.V. (GI). April 2022.
 
 * **Aktuelle Entwicklungen im Kontext von Online-Wahlen und digitalen Abstimmungen** ([Link](https://publikationen.bibliothek.kit.edu/1000137300/126120082))<br>
 Bernhard Beckert, Jurlind Budurushi, Armin Grunwald, Robert Krimmer, Oksana Kulyk, Ralf Küsters, Andreas Mayer, Jörn Müller-Quade, **Stephan Neumann**, Melanie Volkamer. In: 10.5445/IR/1000137300. September 2021.
