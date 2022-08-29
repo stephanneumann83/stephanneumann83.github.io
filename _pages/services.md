@@ -39,5 +39,5 @@ author_profile: true
 * [External Expert](https://bfh.easydocmaker.ch/media/pdf_final/531_Juerg_Ritter.pdf) Reviewer of the master thesis: Decentralized E-Voting on Android Devices Using Homomorphic Tallying. Berner Fachhochschule, Switzerland. 2014.
 
 ### Organisator / Initiator
-* Initiator and invited expert at [Cybersecurity Day 2021](https://www.saaris.de/uploads/tx_zmpsaaristtnews/downloads/Cybersecurity-Day-Flyer.pdf) of East Side Fab. 2021. (Also [Cybersecurity Day 2022](https://eastsidefab.de/cybersecurity-day-2022/))
+* Initiator and invited expert at [Cybersecurity Day 2021](https://eastsidefab.de/cybersecurity-keine-option-sondern-ein-muss/) of East Side Fab. 2021. (Also [Cybersecurity Day 2022](https://eastsidefab.de/cybersecurity-day-2022/))
 * [44th GI Jahrestagung / Workshop: Elektronische Wahlen](http://www.uni-koblenz-landau.de/koblenz/fb4/iwvi/aggrimm/events_folder/gitag44/). September 2014. Stuttgart, Germany.
