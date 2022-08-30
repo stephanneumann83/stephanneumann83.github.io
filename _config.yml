@@ -48,7 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-theme: merlot
 
 # SEO Related
 google_site_verification :
