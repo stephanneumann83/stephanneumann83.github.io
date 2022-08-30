@@ -48,7 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
+theme: dinky
 
 # SEO Related
 google_site_verification :
@@ -156,7 +156,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-theme: dinky
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
