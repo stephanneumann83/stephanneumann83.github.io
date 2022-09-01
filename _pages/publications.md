@@ -64,7 +64,7 @@ Verena Schochlow, **Stephan Neumann**, Kristoffer Braun, Melanie Volkamer. In: D
 * **Evaluation and Improvement of Internet Voting Schemes Based on Legally-Founded Security Requirements** ([Link](https://tuprints.ulb.tu-darmstadt.de/5375/1/Thesis.pdf))<br>
 **Stephan Neumann**. PhD Thesis, 2016.
 
-* **Certification of ICTs in Elections** ([Link](https://www.idea.int/publications/catalogue/certification-icts-elections))<br>
+* **Certification of ICTs in Elections** ([Link](https://www.idea.int/sites/default/files/publications/certification-of-icts-in-elections.pdf))<br>
 Peter Wolf, Jordi Barrat, Eden Bolo, Alejandro Bravo, Robert Krimmer, **Stephan Neumann**, Al A. Parreño, Carsten Schürmann, Melanie Volkamer. In: International Institute for Democracy and Electoral Assistance, December 2015.
 
 * **Cast-as-intended-Verifizierbarkeit für das Polyas-Internetwahlsystem** ([Link](https://core.ac.uk/download/pdf/197496661.pdf))<br>
@@ -73,7 +73,7 @@ Peter Wolf, Jordi Barrat, Eden Bolo, Alejandro Bravo, Robert Krimmer, **Stephan 
 * **Efficiency Evaluation of Cryptographic Protocols for Boardroom Voting** ([Link](https://publikationen.bibliothek.kit.edu/1000081947/15444773))<br>
 Oksana Kulyk, **Stephan Neumann**, Jurlind Budurushi, Melanie Volkamer, Rolf Haenni, Reto Koenig, Philemon von Bergen. In: Availability, Reliability and Security (ARES), 2015 10th International Conference on, p. 224-229, IEEE, August 2015. 
 
-* **Efficiency Evaluation of Cryptographic Protocols for Boardroom Voting** ([Link](http://eprint.iacr.org/2015/558))<br>
+* **Efficiency Evaluation of Cryptographic Protocols for Boardroom Voting** ([Link](http://eprint.iacr.org/2015/558.pdf))<br>
 Oksana Kulyk, **Stephan Neumann**, Jurlind Budurushi, Melanie Volkamer, Rolf Haenni, Reto Koenig, Philemon von Bergen. Cryptology ePrint Archive, Report 2015/558, June 2015.
 
 * **Pretty Understandable Democracy 2.0** ([Link](https://eprint.iacr.org/2014/625.pdf))<br>
@@ -91,7 +91,7 @@ Christian Feier, **Stephan Neumann**, Melanie Volkamer. In: Erhard Plödereder, 
 * **Entwicklung eines Common Criteria Schutzprofils für elektronische Wahlgeräte mit Paper Audit Trail** ([Link](https://subs.emis.de/LNI/Proceedings/Proceedings232/1415.pdf))<br>
 Jurlind Budurushi, **Stephan Neumann**, Genc Shala, Melanie Volkamer. In: Erhard Plödereder, Lars Grunske, Eric Schneider and Dominik Ull: Lecture Notes in Informatics (LNI), INF14 - Workshop: Elektronische Wahlen: Unterstützung der Wahlprozesse mittels Technik, vol. 232, p. 1415-1426, Köllen Druck+Verlag GmbH, Bonn, September 2014. ISBN 978-3-88579-626-8.
 
-* **Analysis of Security and Cryptographic Approaches to Provide Secret and Verifiable Electronic Voting** ([Link](https://www.irma-international.org/viewtitle/109227/?isxn=9781466658202))<br>
+* **Analysis of Security and Cryptographic Approaches to Provide Secret and Verifiable Electronic Voting** ([Link](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.428.8464&rep=rep1&type=pdf))<br>
 **Stephan Neumann**, Jurlind Budurushi, Melanie Volkamer. In: Dimitrios Zissis, Dimitrios Lekkas, Design, Development, and Use of Secure Electronic Voting Systems, chap. 2, p. 27-61, IGI Global, 2014. 
 
 * **Tauglichkeit von Common Criteria-Schutzprofilen für Internetwahlen in Deutschland** ([Link](https://publikationen.bibliothek.kit.edu/1000081911/16417905))<br>
@@ -106,7 +106,7 @@ Johannes Buchmann, **Stephan Neumann**, Melanie Volkamer. In: Datenschutz und Da
 * **Modeling the German Legal Latitude Principles** ([Link](https://hal.inria.fr/hal-01491259/document))<br>
 **Stephan Neumann**, Anna Kahlert, Maria Henning, Philipp Richter, Hugo Jonker, Melanie Volkamer. In: Maria A. Wimmer, Efthimios Tambouris, Ann Macintosh: Lecture Notes in Computer Science, 5th International Conference on eParticipation (ePart 2013) , vol. 8075, p. 49-56, Springer, September 2013.
 
-* **Pretty Understandable Democracy - A Secure and Understandable Internet Voting Scheme** ([Link](https://ieeexplore.ieee.org/document/6657241))<br>
+* **Pretty Understandable Democracy - A Secure and Understandable Internet Voting Scheme** ([Link](https://publikationen.bibliothek.kit.edu/1000081893/15396557))<br>
 Jurlind Budurushi, **Stephan Neumann**, Maina Olembo, Melanie Volkamer. In: Günther Pernul, Ravi Sandhu: 8th International Conference on Availability, Reliability and Security (AReS 2013), p. 198-207, IEEE, July 2013.
 
 * **Towards a Practical Cryptographic Voting Scheme Based on Malleable Proofs** ([Link](https://publikationen.bibliothek.kit.edu/1000081894/15395311))<br>
@@ -118,7 +118,7 @@ David Bernhard, **Stephan Neumann**, Melanie Volkamer. In: Steve Schneider, Jame
 * **Towards A Practical JCJ / Civitas Implementation** ([Link](https://eprint.iacr.org/2013/464.pdf))<br>
 **Stephan Neumann**, Christian Feier, Melanie Volkamer, Reto Koenig. In: Matthias Horbach: INF13 - Workshop: Elektronische Wahlen: Ich sehe was, das Du nicht siehst - öffentliche und geheime Wahl, p. 804-818, July 2013.
 
-* **Informatische Modellierung der Prinzipien des gesetzlichen Gestaltungsspielraums im Hinblick auf Wahlsysteme** ([Link](https://jusletter-it.weblaw.ch/issues/2013/IRIS/2217.html__ONCE&login=false))<br>
+* **Informatische Modellierung der Prinzipien des gesetzlichen Gestaltungsspielraums im Hinblick auf Wahlsysteme** ([Link](https://publikationen.bibliothek.kit.edu/1000081887/15476787))<br>
 **Stephan Neumann**, Anna Kahlert, Maria Henning, Hugo Jonker, Melanie Volkamer. In: Abstraction and Application: Proceedings of the 16th International Legal Informatics Symposium (IRIS 2013), p. 277-284, February 2013. 
 
 * **Holistic and Law compatible IT Security Evaluation: Integration of Common Criteria, ISO 27001/IT-Grundschutz and KORA** ([Link](https://download.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/SECUSO/neumann_IJISP_7_3_.pdf))<br>
