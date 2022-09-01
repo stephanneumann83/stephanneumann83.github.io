@@ -22,7 +22,7 @@ Matthias Böcker, Frank-Oliver Groß, **Stephan Neumann**. In: Zeitschrift für 
 * **Human Factors in Coercion Resistant Internet Voting – A Review of Existing Solutions and Open Challenges** ([Link](https://pure.itu.dk/portal/files/85567889/Human_factors_in_coercion_resistant_voting_13_2.pdf))<br>
 Oksana Kulyk, **Stephan Neumann**. In: Fifth International Joint Conference on Electronic Voting (E-Vote-ID 2020).
 
-* **SARS-CoV-2, a Threat to Privacy?** ([Link](https://arxiv.org/abs/2004.10305))<br>
+* **SARS-CoV-2, a Threat to Privacy?** ([Link](https://arxiv.org/pdf/2004.10305.pdf))<br>
 Tim Daubenschuetz, Oksana Kulyk, **Stephan Neumann**, Isabella Hinterleitner, Paula Ramos Delgado, Carmen Hoffmann, Florian Scheible. In: arXiv preprint arXiv:2004.10305, April 2020.
 
 * **Blockchain - Chancen und Herausforderungen für die Finanzbranche** ([Link](https://www.fch-gruppe.de/wp-content/uploads/2019/07/BP_DP_06_2018_web.pdf))<br>
@@ -31,19 +31,19 @@ Tim Daubenschuetz, Oksana Kulyk, **Stephan Neumann**, Isabella Hinterleitner, Pa
 * **Effektiver Schutz vor betrügerischen Nachrichten: Ein Schulungsprogramm zur Erkennung betrügerischer Nachrichten für KMU** ([Link](https://link.springer.com/article/10.1007%2Fs11623-018-0945-x))<br>
 **Stephan Neumann**, Benjamin Reinheimer, Melanie Volkamer, Christian Schwartz, Alexandra Kunz. In: Datenschutz und Datensicherheit, vol. 5/2018, p. 301-306, Mai 2018. 
 
-* **Election-Dependent Security Evaluation of Internet Voting Schemes** ([Link](https://link.springer.com/chapter/10.1007%2F978-3-319-58469-0_25))<br>
+* **Election-Dependent Security Evaluation of Internet Voting Schemes** ([Link](https://hal.inria.fr/hal-01648992/document))<br>
 **Stephan Neumann**, Manuel Noll, Melanie Volkamer. In: ICT Systems Security and Privacy Protection. SEC 2017. IFIP Advances in Information and Communication Technology, Vol. 502, p. 371-382, May 2017.
 
 * **Don't be Deceived: The Message Might be Fake** ([Link](https://link.springer.com/chapter/10.1007%2F978-3-319-64483-7_13))<br>
 **Stephan Neumann**, Benjamin Reinheimer, Melanie Volkamer. In: 14th International Conference On Trust, Privacy & Security In Digital Business (TrustBus), August 2017.
 
-* **Enabling Vote Delegation in Boardroom Voting** ([Link](https://publikationen.bibliothek.kit.edu/1000081994/50008975))<br>
+* **Enabling Vote Delegation in Boardroom Voting** ([Link](https://fc17.ifca.ai/voting/papers/Voting17_kulyk.pdf))<br>
 Oksana Kulyk, **Stephan Neumann**, Karola Marky, Melanie Volkamer. In: Workshop on Advances in Secure Electronic Voting Associated with Financial Crypto 2017, April 2017.
 
 * **Sicherheit in der Kommunikation: kostenloses Maßnahmen-Angebot für KMU gegen Internetbetrug** ([Link](https://kommunikation-mittelstand.digital/sicherheit-in-der-kommunikation-kostenloses-massnahmen-angebot-fuer-kmu-gegen-internetbetrug/))<br>
 Silke Rehfeld, Melanie Volkamer, **Stephan Neumann**. In: Mittelstand 4.0 - Agentur Kommunikation, January 2017.
 
-* **Nothing Comes for Free: How Much Usability Can You Sacrifice for Security?** ([Link](https://www.computer.org/web/computingnow/spcfp3))<br>
+* **Nothing Comes for Free: How Much Usability Can You Sacrifice for Security?** ([Link](https://publikationen.bibliothek.kit.edu/1000081985/15236979))<br>
 Oksana Kulyk, **Stephan Neumann**, Jurlind Budurushi, Melanie Volkamer. In: IEEE Security & Privacy Special Issue on Electronic Voting, 2017.
 
 * **Introducing Proxy Voting to Helios** ([Link](https://publikationen.bibliothek.kit.edu/1000081973/15444670))<br>
@@ -55,7 +55,7 @@ Peter Meyer, **Stephan Neumann**, Melanie Volkamer. In: International Symposium 
 * **Coercion-resistant Proxy Voting** ([Link](https://publikationen.bibliothek.kit.edu/1000081964/15444958))<br>
 Oksana Kulyk, **Stephan Neumann**, Karola Marky, Jurlind Budurushi, Melanie Volkamer. In: 31st International Conference on ICT Systems Security and Privacy Protection - IFIP SEC 2016, p. 3-16, Springer, June 2016. 
 
-* **SecIVo: a quantitative security evaluation framework for internet voting schemes** ([Link](https://link.springer.com/content/pdf/10.1007/s12243-016-0520-0.pdf))<br>
+* **SecIVo: a quantitative security evaluation framework for internet voting schemes** ([Link](https://publikationen.bibliothek.kit.edu/1000081974/15238885))<br>
 **Stephan Neumann**, Melanie Volkamer, Jurlind Budurushi, Marco Prandini. In: Annals of Telecommunications, p. 1--16, June 2016.
 
 * **Bewertung der GMX/Mailvelope-Ende-zu-Ende-Verschlüsselung** ([Link](https://download.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/SECUSO/8_BewertungDerGMXMailvelope-Ende-zu-Ende-Verschluesselung.pdf))<br>
@@ -67,7 +67,7 @@ Verena Schochlow, **Stephan Neumann**, Kristoffer Braun, Melanie Volkamer. In: D
 * **Certification of ICTs in Elections** ([Link](https://www.idea.int/publications/catalogue/certification-icts-elections))<br>
 Peter Wolf, Jordi Barrat, Eden Bolo, Alejandro Bravo, Robert Krimmer, **Stephan Neumann**, Al A. Parreño, Carsten Schürmann, Melanie Volkamer. In: International Institute for Democracy and Electoral Assistance, December 2015.
 
-* **Cast-as-intended-Verifizierbarkeit für das Polyas-Internetwahlsystem** ([Link](https://link.springer.com/article/10.1007/s11623-015-0512-7))<br>
+* **Cast-as-intended-Verifizierbarkeit für das Polyas-Internetwahlsystem** ([Link](https://core.ac.uk/download/pdf/197496661.pdf))<br>
 **Stephan Neumann**, Melanie Volkamer, Moritz Strube, Wolfgang Jung, Achim Brelle. In: Datenschutz und Datensicherheit, vol. 11/2015, p. 747-752, October 2015.
 
 * **Efficiency Evaluation of Cryptographic Protocols for Boardroom Voting** ([Link](https://publikationen.bibliothek.kit.edu/1000081947/15444773))<br>
