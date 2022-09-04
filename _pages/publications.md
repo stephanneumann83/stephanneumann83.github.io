@@ -43,7 +43,7 @@ Oksana Kulyk, **Stephan Neumann**, Karola Marky, Melanie Volkamer. In: Workshop 
 * **Sicherheit in der Kommunikation: kostenloses Maßnahmen-Angebot für KMU gegen Internetbetrug** ([Link](https://kommunikation-mittelstand.digital/sicherheit-in-der-kommunikation-kostenloses-massnahmen-angebot-fuer-kmu-gegen-internetbetrug/))<br>
 Silke Rehfeld, Melanie Volkamer, **Stephan Neumann**. In: Mittelstand 4.0 - Agentur Kommunikation, January 2017.
 
-* **Nothing Comes for Free: How Much Usability Can You Sacrifice for Security?** ([Link](https://www.stephanneumann.de/files/paper.pdf)<br>
+* **Nothing Comes for Free: How Much Usability Can You Sacrifice for Security?** ([Link](https://www.stephanneumann.de/files/paper.pdf))<br>
 Oksana Kulyk, **Stephan Neumann**, Jurlind Budurushi, Melanie Volkamer. In: IEEE Security & Privacy Special Issue on Electronic Voting, 2017.
 
 * **Introducing Proxy Voting to Helios** ([Link](https://publikationen.bibliothek.kit.edu/1000081973/15444670))<br>
