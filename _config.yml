@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Biography"
 title_separator          : "-"
 name                     : &name "Dr. Stephan Neumann"
-description              : &description "Head of DigiLab and Development | Security Researcher | Cryptography and Privacy Enthusiast"
+description              : &description "Head of DigiLab and Development at SaarLB | Security, Privacy, and Cryptography Researcher"
 url                      : https://www.stephanneumann.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/stephanneumann83/stephanneumann83.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Stephan Neumann"
   avatar           : "1659878177751.jpeg"
-  bio              : "Head of DigiLab and Development | Security Researcher | Cryptography and Privacy Enthusiast"
+  bio              : "Head of DigiLab and Development at SaarLB | Security, Privacy, and Cryptography Researcher"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : 
