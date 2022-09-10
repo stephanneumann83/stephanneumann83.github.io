@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Biography"
+title                    : "Stephan Neumann"
 title_separator          : "-"
 name                     : &name "Dr. Stephan Neumann"
 description              : &description "Head of DigiLab and Development at SaarLB | Security, Privacy, and Cryptography Researcher"
