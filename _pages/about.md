@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since February 2020 I have been the head of the DigiLab & Development unit, an innovation and development unit, for [SaarLB](https://www.saarlb.de) (Landesbank Saar) in Saarbrücken. In addition, since February 2019 I have been working irregularly as a lecturer for cryptography and information security at the [Duale Hochschule Baden-Württemberg (DHBW)](https://www.karlsruhe.dhbw.de). From time to time, I offer guest lectures at academic institutions, e.g. at the [Helmholtz Center for Information Security (CISPA)](https://cms.cispa.saarland/poser_2122/).
+Since February 2020 I have been the head of the DigiLab & Development unit, an innovation and development unit, for [SaarLB](https://www.saarlb.de) (Landesbank Saar) in Saarbrücken. In addition, since February 2019 I have been working irregularly as a lecturer for cryptography and information security at the [Baden-Württemberg Cooperative State University (DHBW)](https://www.karlsruhe.dhbw.de). From time to time, I offer guest lectures at academic institutions, e.g. at the [CISPA Helmholtz Center for Information Security](https://cms.cispa.saarland/poser_2122/).
 
 Between March 2017 and February 2020 I worked as Information Security Officer for [SaarLB](https://www.saarlb.de) (Landesbank Saar). From May 2016 to February 2017 I worked as a postdoctoral researcher in computer science at the [Technische Universität Darmstadt](https://www.tu-darmstadt.de) in the [SECUSO](https://secuso.aifb.kit.edu) (Security, Usability, and Society) group (now at [Karlsruhe Institute of Technology](https://www.kit.edu)). 
 
