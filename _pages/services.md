@@ -30,8 +30,8 @@ author_profile: true
 * [Applicable Algebra in Engineering, Communication and Computing, Special Issue "Computer Algebra in Coding Theory and Cryptography (ACA 2012)"](https://www.springerprofessional.de/applicable-algebra-in-engineering-communication-and-computing/5053734). E. Martinez-Moro, Iliya Bouyukliev, S. Bulygin (Guest Editors). 2012.
 
 ## Editor
-* [Journal of Applied Sciences (Special Issue "Emerging Technologies in Information Security and Cryptography")](https://www.mdpi.com/journal/applsci/special_issues/39354N9705), 2022.
-* [Journal of Information Security and Applications (Special Issue on Electronic Voting)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications/special-issue/10QBC8S19H5), 2017.
+* Journal of Applied Sciences [(Special Issue "Emerging Technologies in Information Security and Cryptography")](https://www.mdpi.com/journal/applsci/special_issues/39354N9705), 2022.
+* Journal of Information Security and Applications [(Special Issue on Electronic Voting)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications/special-issue/10QBC8S19H5), 2017.
 
 ## Subject matter expert
 * Subject matter expert for a study on the 2023 Social Security election as online voting - Virtual Interview. 2020. (Proof is available)
