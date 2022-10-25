@@ -7,6 +7,9 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=EfOOPRoAAAAJ&hl=de">my Google Scholar profile</a>. Most of my articles are publicly available. Please do not hesistate to contact me if you cannot find specific articles.
 
+* **Bearbeitungs- und Prüfungsleitfaden: Neue MaRisk, 5. Auflage** ([Link](https://www.fch-gruppe.de/Buch/bearbeitungs-und-pruefungsleitfaden-neue-marisk-5-auflage)) <br>
+**Stephan Neumann** et al. In: Finanz Colloquium Heidelberg GmbH. Editors: Michael Berndt, Jochen Klein. September 2022.
+
 * **Fostering financial stability through quantitative security evaluation in credit processes (Poster)** ([Link](https://fc22.ifca.ai/program.html)) <br>
 **Stephan Neumann**, Oksana Kulyk. Accepted at Financial Cryptography and Data Security 2022 (FC22). May 2022. (Removed from the program because of absence)
 
@@ -24,6 +27,9 @@ Oksana Kulyk, **Stephan Neumann**. In: Fifth International Joint Conference on E
 
 * **SARS-CoV-2, a Threat to Privacy?** ([Link](https://arxiv.org/pdf/2004.10305.pdf))<br>
 Tim Daubenschuetz, Oksana Kulyk, **Stephan Neumann**, Isabella Hinterleitner, Paula Ramos Delgado, Carmen Hoffmann, Florian Scheible. In: arXiv preprint arXiv:2004.10305, April 2020.
+
+* **Bearbeitungs- und Prüfungsleitfaden: Neue MaRisk, 4. Auflage** <br>
+**Stephan Neumann** et al. In: Finanz Colloquium Heidelberg GmbH. Editors: Michael Berndt, Jochen Klein. 2018.
 
 * **Blockchain - Chancen und Herausforderungen für die Finanzbranche** ([Link](https://www.fch-gruppe.de/wp-content/uploads/2019/07/BP_DP_06_2018_web.pdf))<br>
 **Stephan Neumann**. In: DigiPraktiker (Finanz Colloquium Heidelberg), vol. 6/2018, p. 74-79, June 2018. 
