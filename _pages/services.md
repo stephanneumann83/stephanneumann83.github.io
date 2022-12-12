@@ -14,7 +14,7 @@ author_profile: true
 * Journal of Information Security and Applications ([Special Issue on Electronic Voting](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications/special-issue/10QBC8S19H5)), 2017.
 
 ## Program committee member
-* 15th - 17th [International Conference on Availability, Reliability and Security (ARES)](https://www.ares-conference.eu). 2020 - 2022.
+* 15th - 18th [International Conference on Availability, Reliability and Security (ARES)](https://www.ares-conference.eu). 2020 - 2023.
 * 5th - 8th [International Joint Conference on Electronic Voting](https://www.e-vote-id.org). 2020 - 2023.
 * 7th [International Conference on Mathematics and Computing (ICMC)](https://icmc2021.in). March 2021. Shibpur, India.
 * 6th [International Workshop on Socio-Technical Aspects in Security and Trust](https://stast2016.uni.lu). December 2016. Los Angeles, California, US.
