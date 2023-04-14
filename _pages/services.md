@@ -10,7 +10,7 @@ author_profile: true
 * Editorial Board Member of the [Security, Privacy, and Authentication section](https://www.frontiersin.org/journals/communications-and-networks/sections/security-privacy-and-authentication) of the Frontiers in Communications and Networks Journal.
 
 ## Editor
-* Journal of Applied Sciences ([Special Issue on Emerging Technologies in Information Security and Cryptography](https://www.mdpi.com/journal/applsci/special_issues/39354N9705)), 2022.
+* Journal of Applied Sciences ([Special Issue on Emerging Technologies in Information Security and Cryptography](https://www.mdpi.com/journal/applsci/special_issues/39354N9705)), 2022 - 2023.
 * Journal of Information Security and Applications ([Special Issue on Electronic Voting](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications/special-issue/10QBC8S19H5)), 2017.
 
 ## Program committee member
