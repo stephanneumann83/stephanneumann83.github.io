@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Head of DigiLab & Development / Security & Cryptography Researcher"
-excerpt: "Head of DigiLab & Development / Security & Cryptography Researcher"
+title: "Head of DigiLab / Security & Cryptography Researcher"
+excerpt: "Head of DigiLab / Security & Cryptography Researcher"
 author_profile: true
 redirect_from: 
   - /about/
