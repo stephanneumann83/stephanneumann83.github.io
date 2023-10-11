@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Head of DigiLab & Development (SaarLB) / Security and Cryptography Researcher"
 excerpt: "Biography"
 author_profile: true
 redirect_from: 
