@@ -9,10 +9,6 @@ author_profile: true
 * Reviewer Board Member of the [Cryptography — Open Access Journal](https://www.mdpi.com/journal/cryptography).
 * Editorial Board Member of the [Security, Privacy, and Authentication section](https://www.frontiersin.org/journals/communications-and-networks/sections/security-privacy-and-authentication) of the Frontiers in Communications and Networks Journal.
 
-## Editor
-* Journal of Applied Sciences ([Special Issue on Emerging Technologies in Information Security and Cryptography](https://www.mdpi.com/journal/applsci/special_issues/39354N9705)), 2022 - 2023.
-* Journal of Information Security and Applications ([Special Issue on Electronic Voting](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications/special-issue/10QBC8S19H5)), 2017.
-
 ## Program committee member
 * 15th - 19th [International Conference on Availability, Reliability and Security (ARES)](https://www.ares-conference.eu). 2020 - 2024.
 * 5th - 9th [International Joint Conference on Electronic Voting](https://www.e-vote-id2024.org). 2020 - 2024.
@@ -22,6 +18,10 @@ author_profile: true
 * 5th [International Conference on E-voting and Identity](https://link.springer.com/book/10.1007/978-3-319-22270-7). September 2015. Bern, Switzerland.
 * 9th - 12th [International Conference on Internet Monitoring and Protection (ICIMP)](http://www.iaria.org/conferences2013/ComICIMP13.html). 2013 - 2016.
 * 43th [GI Jahrestagung / Workshop: Elektronische Wahlen](https://gi.de/fileadmin/GI/Hauptseite/Ueber_uns/Historie/Programmheft-INFORMATIK2013.pdf). September 2013. Koblenz, Germany.
+
+## Editor
+* Journal of Applied Sciences ([Special Issue on Emerging Technologies in Information Security and Cryptography](https://www.mdpi.com/journal/applsci/special_issues/39354N9705)), 2022 - 2023.
+* Journal of Information Security and Applications ([Special Issue on Electronic Voting](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications/special-issue/10QBC8S19H5)), 2017.
 
 ## Reviewer
 * 1st [International Workshop on Election Infrastructure Security (EIS 2022)](https://csis.gmu.edu/EIS-2022/) (Subreviewer)
