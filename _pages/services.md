@@ -9,7 +9,6 @@ author_profile: true
 * Reviewer Board Member of the [Cryptography — Open Access Journal](https://www.mdpi.com/journal/cryptography).
 * Editorial Board Member of the [Security, Privacy, and Authentication section](https://www.frontiersin.org/journals/communications-and-networks/sections/security-privacy-and-authentication) of the Frontiers in Communications and Networks Journal.
 
-
 ## Reviewer
 * 1st [International Workshop on Election Infrastructure Security (EIS 2022)](https://csis.gmu.edu/EIS-2022/) (Subreviewer)
 * [Entropy - Open Access Journal - Special Issue: Swarms and Network Intelligence](https://www.mdpi.com/journal/entropy/special_issues/swarms_network_intelligence). Yaniv Altshuler, Camara Pereira, Eli David (Guest Editors). 2022.
